@@ -11,7 +11,10 @@ Trading_Calculator.py - La stessa app fatta in Python, c'è il calcolatore di Wi
 Contract_Calculator_Evo.py - Un'evoluzione del precedente calcolatore con una serie di opzioni in più e logiche leggermente diverse.
 
 4 -
-Simulatore stocastico di N simulazioni composte da N trade con range randomico di condizioni e output grafico, calcoli come drawdown massimo, con strategia di recupero martingale, adatta al trading
+Montecarlo_recovery.py - Simulatore stocastico di N simulazioni composte da N trade con range randomico di condizioni e output grafico, calcoli come drawdown massimo, con strategia di recupero martingale, adatta al trading
 
-5-
+5 -
 montecarlo_recovery_1lose_per_1win.py - Simulatore stocastico di andamento del capitale nel trading, con range randomico di condizioni e andamento stocastico, leggermente diversa la strategia di recupero, tenta sempre di recuperare con max 1 contratto per ogni trade perso alle condizioni settate
+
+6 -
+Calcolatore_crescita_capitale_cumulativo.py - Calcolatore di ipotetica crescita capitale dato un capitale, la percentuale di crescita, il numero di iterazione considerato. Possibilità di fare più capitali, output grafico.
