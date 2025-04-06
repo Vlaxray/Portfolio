@@ -18,3 +18,6 @@ montecarlo_recovery_1lose_per_1win.py - Simulatore stocastico di andamento del c
 
 6 -
 Calcolatore_crescita_capitale_cumulativo.py - Calcolatore di ipotetica crescita capitale dato un capitale, la percentuale di crescita, il numero di iterazione considerato. Possibilità di fare più capitali, output grafico.
+
+7 - 
+OLD - JumPy.py - Piccolo progetto in pixel "art" abbandonato. si possono raccogliere monetine, c'è un target, c'è la fisica (molto rudimentale) e ci sono diverse pedane. Tutto qui
