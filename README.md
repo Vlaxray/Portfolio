@@ -6,4 +6,4 @@ La mia raccolta lavori - My Portfolio
 
 2 - Trading_Calculator.py - La stessa app fatta in Python, c'è il calcolatore di WinRate, il position sizing calculator, e il calcolatore di stop loss. stile semplice e compatto per essere usato insieme ad altre finestre.
 
-3- Average_Contract_Calc.py - Un'evoluzione del precedente calcolatore con una serie di opzioni in più e logiche leggermente diverse.
+3 - Contract_Calculator_Evo.py - Un'evoluzione del precedente calcolatore con una serie di opzioni in più e logiche leggermente diverse.
