@@ -24,3 +24,7 @@ Abandonware - JumPy.py - Piccolo progetto in pixel "art" abbandonato. si possono
 
 8 -
 Trading_suggestive.py - un diario di capitale di trading con memoria JSON.
+
+9 -
+Project CyteaPipe - Un Database di tabacchi e tè - Work in progress
+
